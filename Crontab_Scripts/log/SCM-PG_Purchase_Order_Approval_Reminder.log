@@ -1,0 +1,15 @@
+ 88%|████████▊ | 50/57 [00:00<?, ?it/s]100%|██████████| 57/57 [00:00<00:00, 39.82it/s]100%|██████████| 57/57 [00:00<00:00, 39.71it/s]
+ 52%|█████▏    | 50/97 [00:00<?, ?it/s]100%|██████████| 97/97 [00:00<00:00, 95.01it/s]100%|██████████| 97/97 [00:00<00:00, 94.95it/s]
+ 11%|█         | 50/449 [00:00<?, ?it/s] 11%|█         | 50/449 [00:00<?, ?it/s] 11%|█         | 50/449 [00:00<?, ?it/s]
+/home/digitall/.local/lib/python3.10/site-packages/fast_bitrix24/user_request.py:174: RuntimeWarning: Number of results returned (50) doesn't equal 'total' from the server reply (449)
+  warnings.warn(
+clientsofficer1@green.com.pg
+97
+Email sent successfully!
+ 35%|███▍      | 50/143 [00:00<?, ?it/s]100%|██████████| 143/143 [00:00<00:00, 131.12it/s]100%|██████████| 143/143 [00:00<00:00, 131.03it/s]
+finac.ops@next.com.pg
+143
+Email sent successfully!
+biomedops@greentelemed.com.pg
+43
+Email sent successfully!
